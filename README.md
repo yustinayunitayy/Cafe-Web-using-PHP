@@ -1,0 +1,1 @@
+This project is a web-based cafe ordering system developed as an individual final project for the SSIP courses. The project uses PHP for scripting and SQL Queries for the database, with PhpMyAdmin for database management. It includes an order form that allows customers to place orders, which are stored in the database using PHP and SQL. 
